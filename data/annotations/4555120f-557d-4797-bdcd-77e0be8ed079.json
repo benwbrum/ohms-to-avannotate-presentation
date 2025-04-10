@@ -1,5 +1,778 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Jean-Denis Boivin is introduced. He talks about his childhood, family, and his education. He talks about his early interest in science.\n\n[Boivin provides his response in QuÃ©bÃ©cois French and English.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Chemistry"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Colleges"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Family"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Fathers"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "High schools"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Montreal (Canada)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Montreal (Quebec)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "MontreÌal (Canada)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mothers"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Parents"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Science"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sherbrook University"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sisters"
+        }
+      ],
+      "uuid": "9630b5e1-6a38-47aa-867e-cac9786fb416"
+    },
+    {
+      "start_time": 356,
+      "end_time": 514,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Boivin talks about his career path from the plastics industry to the pharmaceutical industry, to the distilling industry.\n\n[Boivin provides his response in QuÃ©bÃ©cois French and English.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Careers"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Master distillers"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pharmaceutical industry"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Plastic industry"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Production supervisors"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sazerac Company"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Schenley Distillers Inc."
+        }
+      ],
+      "uuid": "d3b3493b-eb43-461e-b130-c08fdee7152d"
+    },
+    {
+      "start_time": 514,
+      "end_time": 923,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Boivin talks about coming to work for Sazerac at Old Montreal Distillery. He talks about the products they are creating, the people who are involved in this process, and the changes that occurred after the distillery was purchased by Sazerac.\n\n[Boivin provides his response in QuÃ©bÃ©cois French and English.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Canadian whisky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Changes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Chemistry"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Distillation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Drew Mayville"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Experience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Harlen Wheatley"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Investments"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Learning"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Montreal (Canada)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Montreal (Quebec)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Old Montreal Distillery"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Production"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Products"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Projects"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sazerac Company"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Selling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stills"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "e83ef923-d7db-4aa0-9a81-39a1ca5c65fe"
+    },
+    {
+      "start_time": 923,
+      "end_time": 1265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Boivin talks about the new products they are creating at Old Montreal Distillery. He talks about his work with Drew Mayville on these experiments. He talks about the fun and challenge of experimenting and talks about some of the variables that can be changed to create new products.\n\n[Boivin provides his response in QuÃ©bÃ©cois French and English.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Artistry"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Canadian whisky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Challenging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Collaboration"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cooking process"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Craft distilling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Differences"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Distilling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Drew Mayville"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Experience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Experimenting"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Experiments"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Fun"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mash bills"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mass production"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mentors"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "New products"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Old Montreal Distillery"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Planning"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Schenley Distillers Inc."
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "9c0161f5-5a8c-4d12-99f6-bbb3a483b58b"
+    },
+    {
+      "start_time": 1265,
+      "end_time": 1494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Boivin talks about how Old Montreal Distillery, as well as Canada as a whole, have been influenced by Seagram's. He talks about some of the employees at the distillery who once worked for Seagram's.\n\n[Boivin provides his response in QuÃ©bÃ©cois French and English.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Canadian whisky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Employees"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "History"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Influence"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mr. Sam (Canadian whisky)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Samuel Bronfman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Seagram Company Ltd."
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Seagram's"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stills"
+        }
+      ],
+      "uuid": "ff9563a4-ec86-4431-902c-1931eb8c4aee"
+    },
+    {
+      "start_time": 1494,
+      "end_time": 1929,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Boivin describes the process of distilling Canadian whisky, from the raw ingredients to the final product.\n\n[Boivin provides his response in QuÃ©bÃ©cois French and English.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Age"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Aging process"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Alcohol"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Barrels"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Beer wells"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Canadian whisky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Column stills"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cooking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Distillate"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Distilling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Experimentation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Experiments"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Fermentation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Grains"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mash bills"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Milling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pot stills"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Processes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Selection"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Small batch distilling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Steps"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sugar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Visitors centers"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Warehouses"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Yeast"
+        }
+      ],
+      "uuid": "bee2550f-1a0c-4a67-afd3-df547a515d63"
+    },
+    {
+      "start_time": 1929,
+      "end_time": 2201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Boivin talks about his hopes for the future of tourism at Old Montreal Distillery.\n\n[Boivin provides his response in QuÃ©bÃ©cois French and English.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Canadian whisky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Distilling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Experience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "History"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Knowledge"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Media"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Preparation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Processes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Questions"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tastings"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Understanding"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Visitors"
+        }
+      ],
+      "uuid": "4582995e-9882-4b5c-8468-39d015b2123e"
+    },
+    {
+      "start_time": 2201,
+      "end_time": 2288,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Boivin talks about the increase in focus on premium products in the alcohol industry and their desire to create high quality products at Old Montreal Distillery.\n\n[Boivin provides his response in QuÃ©bÃ©cois French and English.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Aging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Award-winning"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Canadian whisky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Premium products"
+        }
+      ],
+      "uuid": "3b2c8763-3538-4e88-a10f-ae464a77a62c"
+    },
+    {
+      "start_time": 2288,
+      "end_time": 2423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Boivin talks about how different barrels create different whiskies.\n\n[Boivin provides his response in QuÃ©bÃ©cois French and English.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Aging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Barrels"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Canadian whisky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Distillate"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Interaction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mash bills"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "New"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Taste"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Used"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Wood"
+        }
+      ],
+      "uuid": "54eb80a2-e657-48ad-b1af-9d2d5cdd11d0"
+    },
+    {
+      "start_time": 2423,
+      "end_time": 2532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Boivin talks about distilling as an art or craft, along with the scientific side of distilling.\n\n[Boivin provides his response in QuÃ©bÃ©cois French and English.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Artistry"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Barrels"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Blending"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Canadian whisky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Craft"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Distilling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Experimentation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Experiments"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mash bills"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Science"
+        }
+      ],
+      "uuid": "d16b3a28-97e0-4d1d-8716-70d6da7e20a5"
+    },
+    {
+      "start_time": 2532,
+      "end_time": 2700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Boivin talks about his hopes for Canadian whisky in the future.\n\n[Boivin provides his response in QuÃ©bÃ©cois French and English.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Canadian whisky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Future"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Improvement"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Roles"
+        }
+      ],
+      "uuid": "ab065b91-0f4b-44a1-834c-1a0594532553"
+    },
+    {
+      "start_time": 2700,
+      "end_time": 3000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Boivin shares his appreciation for his team at Old Montreal Distillery. He shares a humorous story about how close their relationships have become. The interview is concluded.\n\n[Boivin provides his response in QuÃ©bÃ©cois French and English.]"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Appreciation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jokes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Maintenance managers"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Teams"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Telephone calls"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Thank you"
+        }
+      ],
+      "uuid": "1617b5d2-9c0a-490b-9d2f-334db2a1a647"
+    }
+  ],
   "event_id": "92980c22-b662-4191-ba51-99cf4eaffa0c",
   "set": "Synopsis",
   "source_id": "167ec223-bf7e-4c47-bab7-c970fefb044c"
