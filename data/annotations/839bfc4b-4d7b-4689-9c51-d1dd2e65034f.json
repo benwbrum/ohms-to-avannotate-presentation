@@ -1,5 +1,778 @@
 {
-  "annotations": [],
+  "annotations": [
+    {
+      "start_time": 0,
+      "end_time": 356,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "You can ignore the camera and you can just talk to the two of us."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Chemistry"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Colleges"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Family"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Fathers"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "High schools"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Montreal (Canada)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Montreal (Quebec)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "MontreÌal (Canada)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mothers"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Parents"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Science"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sherbrook University"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sisters"
+        }
+      ],
+      "uuid": "9f828e37-fffe-4d75-90e6-cbcffc111fd5"
+    },
+    {
+      "start_time": 356,
+      "end_time": 514,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So after you graduated from university, where did you go next and how did you get started in, in the industry?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Careers"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Master distillers"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pharmaceutical industry"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Plastic industry"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Production supervisors"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sazerac Company"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Schenley Distillers Inc."
+        }
+      ],
+      "uuid": "e68569be-5375-4192-87dd-3123b90ab2ee"
+    },
+    {
+      "start_time": 514,
+      "end_time": 923,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, that brings us here, to Sazerac."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Canadian whisky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Changes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Chemistry"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Distillation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Drew Mayville"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Experience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Harlen Wheatley"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Investments"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Learning"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Montreal (Canada)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Montreal (Quebec)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Old Montreal Distillery"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Production"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Products"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Projects"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sales"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sazerac Company"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Selling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stills"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "a5551938-cb25-4246-b643-e458729c8ab5"
+    },
+    {
+      "start_time": 923,
+      "end_time": 1265,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So, Drew is sitting here, and I'm going to ask what it's like, what you two talk about as you plan for new products"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Artistry"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Canadian whisky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Challenging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Collaboration"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cooking process"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Craft distilling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Differences"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Distilling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Drew Mayville"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Experience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Experimenting"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Experiments"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Fun"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mash bills"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mass production"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mentors"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "New products"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Old Montreal Distillery"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Planning"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Schenley Distillers Inc."
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Volume"
+        }
+      ],
+      "uuid": "920d3393-d826-45a1-b712-245d047fe5ef"
+    },
+    {
+      "start_time": 1265,
+      "end_time": 1494,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm going to go back and ask a little bit about, um, the Seagram connection."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Canadian whisky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Employees"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "History"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Influence"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mr. Sam (Canadian whisky)"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Samuel Bronfman"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Seagram Company Ltd."
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Seagram's"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Stills"
+        }
+      ],
+      "uuid": "a6cbe72c-ee92-4892-bbc3-345fbedfac8c"
+    },
+    {
+      "start_time": 1494,
+      "end_time": 1929,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I was going to then switch to--"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Age"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Aging process"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Alcohol"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Barrels"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Beer wells"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Canadian whisky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Column stills"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Cooking"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Distillate"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Distilling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Experimentation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Experiments"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Fermentation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Grains"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mash bills"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Milling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Pot stills"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Processes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Selection"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Small batch distilling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Steps"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Sugar"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Visitors centers"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Warehouses"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Yeast"
+        }
+      ],
+      "uuid": "fbdc68bd-13b1-4fa7-a4dd-7608521d7398"
+    },
+    {
+      "start_time": 1929,
+      "end_time": 2201,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So are you ready for all of the visitors and the tourists and the media questions that the American blenders and master distillers are getting used to?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Canadian whisky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Distilling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Experience"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "History"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Knowledge"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Media"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Preparation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Processes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Questions"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Tastings"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Understanding"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Visitors"
+        }
+      ],
+      "uuid": "83a276ed-2fbf-4d6e-85f0-76b6e61a7337"
+    },
+    {
+      "start_time": 2201,
+      "end_time": 2288,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So what kind of whisky do you want to make here?"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Aging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Award-winning"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Canadian whisky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Premium products"
+        }
+      ],
+      "uuid": "38b55f24-45fe-4260-8650-99e2ba9f313b"
+    },
+    {
+      "start_time": 2288,
+      "end_time": 2423,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "I'm going to look. We're just going to think about what questions we've missed,"
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Aging"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Barrels"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Canadian whisky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Distillate"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Interaction"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mash bills"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "New"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Taste"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Used"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Wood"
+        }
+      ],
+      "uuid": "05e430e5-6a1b-4c99-b27c-bca1660d0a90"
+    },
+    {
+      "start_time": 2423,
+      "end_time": 2532,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "So I have heard, I think Art said it yesterday and maybe I read it--maybe Mr. Sam said this."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Art"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Artistry"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Barrels"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Blending"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Canadian whisky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Craft"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Distilling"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Experimentation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Experiments"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Mash bills"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Science"
+        }
+      ],
+      "uuid": "516ab9c2-a643-45f6-8e51-fa954a2d9a32"
+    },
+    {
+      "start_time": 2532,
+      "end_time": 2700,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "What, uh--yeah, that's you."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Canadian whisky"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Future"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Improvement"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Roles"
+        }
+      ],
+      "uuid": "284764d8-33f7-4ce3-874b-2b7589e5162e"
+    },
+    {
+      "start_time": 2700,
+      "end_time": 3000,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Do you have any--this is sort of a concluding question."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "category": "_uncategorized_",
+          "tag": "Appreciation"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Jokes"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Maintenance managers"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Teams"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Telephone calls"
+        },
+        {
+          "category": "_uncategorized_",
+          "tag": "Thank you"
+        }
+      ],
+      "uuid": "14df7bd6-9af8-45a3-9c23-56aa22cc308e"
+    }
+  ],
   "event_id": "92980c22-b662-4191-ba51-99cf4eaffa0c",
   "set": "Partial Transcript (English)",
   "source_id": "167ec223-bf7e-4c47-bab7-c970fefb044c"
