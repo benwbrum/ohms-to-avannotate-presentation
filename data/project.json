@@ -4,7 +4,13 @@
     "publish_sha": "",
     "publish_iso_date": ""
   },
-  "users": [],
+  "users": [
+    {
+      "login_name": "benwbrum",
+      "avatar_url": "https://avatars.githubusercontent.com/u/199961?v=4",
+      "admin": true
+    }
+  ],
   "project": {
     "github_org": "benwbrum",
     "is_private": false,
@@ -22,6 +28,26 @@
       "tags": []
     },
     "created_at": "2025-04-10T18:08:40.272Z",
-    "updated_at": "2025-04-10T18:08:40.272Z"
-  }
+    "updated_at": "2025-04-10T18:08:40.272Z",
+    "generate_pages_site": true
+  },
+  "annotations": {},
+  "events": {},
+  "pages": {
+    "80fa65ba-6724-4703-9e9e-0d518bc2a9d1": {
+      "content": [],
+      "created_at": "2025-04-10T18:08:40.309Z",
+      "created_by": "benwbrum",
+      "title": "OHMS to AVAnotate Presentation",
+      "updated_at": "2025-04-10T18:08:40.309Z",
+      "updated_by": "benwbrum",
+      "autogenerate": {
+        "enabled": true,
+        "type": "home"
+      }
+    }
+  },
+  "pageOrder": [
+    "80fa65ba-6724-4703-9e9e-0d518bc2a9d1"
+  ]
 }
